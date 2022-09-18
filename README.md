@@ -1,4 +1,4 @@
-# responsive_ui_yt
+# Responsive UI
 
 A new Flutter project.
 
